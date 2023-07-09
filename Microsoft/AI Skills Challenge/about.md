@@ -1,6 +1,6 @@
 # Microsoft Learn AI Skills Challenge
 
-The training period is from 17 July to 14 August.
+The training period is from 17 July to 14 August
 
 ## Learn and develop essential AI skills with the Microsoft Learn AI Skills Challenge
 
