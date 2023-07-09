@@ -28,4 +28,8 @@ This challenge introduces you to AI Builder, teaches you how to build models, an
 
 ### Information
 
-<a href = "https://www.microsoft.com/en-US/cloudskillschallenge/ai/registration/2023?ocid=aisc23_CSC_experiences_nge" alt="Microsoft Learn AI Challenge" target="_blank">
+<a href = "https://www.microsoft.com/en-US/cloudskillschallenge/ai/registration/2023?ocid=aisc23_CSC_experiences_nge" alt="Microsoft Learn AI Challenge" target="_blank">Information about learning AI</a>
+
+### Terms and Conditions
+
+<a href = "https://www.microsoft.com/en-US/cloudskillschallenge/ai/officialrules/2023" alt="terms">Term and Conditions</a>
